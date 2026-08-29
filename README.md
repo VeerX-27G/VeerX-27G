@@ -23,12 +23,13 @@ I enjoy building real world projects with Python, HTML, CSS and JavaScript.
 - Currently improving my backend, database, and frontend skills.
 
 ## Skills
-- Python, C++, Java
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), C++, Java, PHP
 - Git, GitHub, SQL
 - DSA, OOPs
+- Frameworks: Bootstrap, Tailwind, Flask, FastAPI
 
 ## Projects
-- **My Portfolio** - github.com/VeerX-27G/My-Portfolio: A website that shows skills that I've gain or projects that I've build.
+- **![My Portfolio](http://img.shields.io/badge/github-repo-blue?logo=github)** - https://github.com/VeerX-27G/My-Portfolio: A website that shows skills that I've gain or projects that I've build.
 
 ## 😄 Pronouns: ...
 He, Him
@@ -36,6 +37,3 @@ He, Him
 ## 📫 How to reach me: ...
 - Email: gurveersinghx6@gmail.com
 - LinkedIn: www.linkedin.com/in/gurveer-singh-0901b9407
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=uname&theme=dark)
