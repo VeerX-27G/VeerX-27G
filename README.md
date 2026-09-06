@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-My name is **Gurveer Singh**, and I'm pursuing BSc in Computer Science at University of Regina.<br>- I enjoy building real world projects with Python, HTML, CSS and JavaScript.<br>- 🌱 I’m currently learning MongoDB<br>- 🔭 I’m currently working on building an eCommerce website<br>- Interested in building software and web apps, analyzing data<br>- I mostly code in Python<br>- Currently improving my backend, database, and frontend skills.
+My name is **Gurveer Singh**, and I'm pursuing BSc in Computer Science at University of Regina.<br>- I enjoy building real world projects with Python, HTML, CSS and JavaScript.<br>- 🌱 I’m currently learning MongoDB, Docker, FastAPI<br>- 🔭 I’m currently working on building an eCommerce website<br>- Interested in building software and web apps, analyzing data<br>- I mostly code in Python<br>- Currently improving my backend, database, and frontend skills.
 
 
 ## 🌐 Socials:
