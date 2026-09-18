@@ -17,7 +17,7 @@ My name is **Gurveer Singh**, and I'm pursuing BSc in Computer Science at Univer
 
 
 ## 📫 How to reach me: ...
-[<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/940c7328-88e1-4693-b9b3-fafc8ad4dd6c" />](https://linkedin.com/in/gurveer-singh-0901b9407) [<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/baa50a51-8188-4b58-aeef-2140fb9135f5" />](mailto:gurveersinghx6@gmail.com) [<img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/df278713-ddea-415f-a96e-3ced7b222ceb" />](https://leetcode.com/u/DSAlearner20/)
+![<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/940c7328-88e1-4693-b9b3-fafc8ad4dd6c" />](https://linkedin.com/in/gurveer-singh-0901b9407) ![<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/baa50a51-8188-4b58-aeef-2140fb9135f5" />](mailto:gurveersinghx6@gmail.com) ![<img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/df278713-ddea-415f-a96e-3ced7b222ceb" />](https://leetcode.com/u/DSAlearner20/)
 
 
 # 💻 Tech Stack:
