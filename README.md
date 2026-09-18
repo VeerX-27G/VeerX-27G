@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🧑‍🎓 About Me:
+# 🧑‍💻 About Me:
 My name is **Gurveer Singh**, and I'm pursuing BSc in Computer Science at University of Regina.<br>- I enjoy building real world projects with Python, HTML, CSS and JavaScript.<br>- 🌱 I’m currently learning MongoDB, Docker<br>- 🔭 I’m currently working on building an eCommerce website: [Xtore](https://xtore-29b7ae3affe5.herokuapp.com/)<br>- Interested in building software and web apps, analyzing data<br>- I mostly code in Python<br>- Currently improving my data analysis, backend, database, and frontend skills.
 
 
 ## 📫 How to reach me: ...
-[<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/940c7328-88e1-4693-b9b3-fafc8ad4dd6c" />](https://linkedin.com/in/gurveer-singh-0901b9407) [<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/baa50a51-8188-4b58-aeef-2140fb9135f5" />](mailto:gurveersinghx6@gmail.com) [<img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/df278713-ddea-415f-a96e-3ced7b222ceb" />](https://leetcode.com/u/DSAlearner20/)
+[![](https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/in/gurveer-singh-0901b9407) [![](https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:gurveersinghx6@gmail.com) [![](https://camo.githubusercontent.com/8f88b511738d980c334d7e4d2c74413ee9dfd12b8a6a6f35d88678714a58216c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d626c61636b)](https://leetcode.com/u/DSAlearner20/)
 
 
 # 💻 Tech Stack:
@@ -27,7 +27,5 @@ My name is **Gurveer Singh**, and I'm pursuing BSc in Computer Science at Univer
 ![](https://streak-stats.demolab.com/?user=VeerX-27G&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VeerX-27G&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=VeerX-27G&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
