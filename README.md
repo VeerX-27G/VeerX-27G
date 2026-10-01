@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 🧑‍💻 About Me:
 I'm pursuing BSc in Computer Science at University of Regina.<br>
-- ✨ I have a passion for with a passion for building Full-Stack web applications, APIs, and data dashboards using Python, SQL, and web technologies.
+- ✨ I have a passion for building Full-Stack web applications, APIs, and data dashboards using Python, SQL, and web technologies.
 - 🌱 I’m currently learning MongoDB, Docker and AI Engineering
 
 
