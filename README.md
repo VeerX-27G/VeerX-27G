@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🧑‍💻 About Me:
-I'm pursuing BSc in Computer Science at University of Regina.<br>- I enjoy building real world projects with Python, HTML, CSS and JavaScript.<br>- 🌱 I’m currently learning MongoDB, Docker and AI Engineering<br>- 🔭 I’m currently working on my eCommerce website: [Xtore](https://xtore-29b7ae3affe5.herokuapp.com/)<br>- Interested in building software, web apps, and analyzing data<br>
+I'm pursuing BSc in Computer Science at University of Regina having passion in Full-Stack Development, APIs, and Data Analysis using Python, SQL, and web technologies.<br>- 🌱 I’m currently learning MongoDB, Docker and AI Engineering<br>- I'm interested in building software, web apps, and analyzing data<br>
 
 
 ## 📫 How to reach me: ...
